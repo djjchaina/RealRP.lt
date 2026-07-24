@@ -4,138 +4,269 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>RealRP.lt | FiveM Roleplay</title>
+<title>RealRP.lt | Lietuvos FiveM Roleplay</title>
 
 <style>
-body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-    background: #0b0b0b;
-    color: white;
-    text-align: center;
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
 }
 
-.container {
-    padding: 50px 20px;
+body{
+    background:#080808;
+    color:white;
 }
 
-.logo {
-    width: 250px;
-    max-width: 80%;
+.hero{
+    min-height:100vh;
+    background:
+    linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.9)),
+    url("logo.PNG");
+    background-size:cover;
+    background-position:center;
+    
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
 }
 
-h1 {
-    font-size: 45px;
-    margin-bottom: 10px;
+.hero img{
+    width:260px;
+    animation:fade 2s;
 }
 
-p {
-    font-size: 18px;
-    color: #cccccc;
+.hero h1{
+    font-size:55px;
+    margin-top:20px;
 }
 
-.button {
-    display: inline-block;
-    margin-top: 25px;
-    padding: 15px 30px;
-    background: #5865F2;
-    color: white;
-    text-decoration: none;
-    border-radius: 10px;
-    font-size: 18px;
+.hero p{
+    color:#bbb;
+    font-size:20px;
+    margin-top:15px;
 }
 
-.section {
-    margin-top: 50px;
+.buttons{
+    margin-top:35px;
 }
 
-.card {
-    background: #161616;
-    margin: 15px auto;
-    padding: 20px;
-    max-width: 500px;
-    border-radius: 15px;
+.btn{
+    display:inline-block;
+    padding:15px 35px;
+    margin:10px;
+    border-radius:10px;
+    text-decoration:none;
+    color:white;
+    background:#5865F2;
+    font-size:18px;
 }
 
-footer {
-    margin-top: 50px;
-    padding: 20px;
-    color: gray;
+.btn:hover{
+    opacity:.8;
 }
+
+
+section{
+    padding:70px 20px;
+    text-align:center;
+}
+
+
+.title{
+    font-size:35px;
+    margin-bottom:40px;
+}
+
+
+.cards{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:20px;
+}
+
+
+.card{
+    background:#151515;
+    padding:30px;
+    width:280px;
+    border-radius:15px;
+    border:1px solid #222;
+}
+
+
+.card h3{
+    margin-bottom:15px;
+}
+
+
+.status{
+    background:#111;
+}
+
+
+.green{
+    color:#00ff7f;
+}
+
+
+footer{
+    padding:30px;
+    background:#050505;
+    text-align:center;
+    color:#777;
+}
+
+
+@keyframes fade{
+from{
+opacity:0;
+transform:scale(.8);
+}
+to{
+opacity:1;
+transform:scale(1);
+}
+}
+
+
 </style>
 
 </head>
 
+
 <body>
 
-<div class="container">
 
-<img <img src="logo.PNG" class="logo">
+<div class="hero">
+
+<div>
+
+<img src="logo.PNG">
 
 <h1>RealRP.lt</h1>
 
 <p>
-🇱🇹 Lietuvos FiveM Roleplay serveris
-</p>
-
-<p>
-Naujos kartos RP projektas, kuriame kuriame realistišką miesto gyvenimą.
+🇱🇹 Lietuvos naujos kartos FiveM Roleplay serveris
 </p>
 
 
-<a class="button" href="https://discord.gg/95JSFQYCp">
-💬 Prisijungti prie Discord
+<div class="buttons">
+
+<a class="btn" href="https://discord.gg/T8FMstE5D ">
+💬 Discord
 </a>
 
 
-<div class="section">
+<a class="btn" href="#about">
+ℹ️ Apie mus
+</a>
 
-<h2>🚔 Darbai</h2>
+</div>
+
+</div>
+
+</div>
+
+
+
+<section id="about">
+
+<h2 class="title">
+🌆 Apie RealRP.lt
+</h2>
+
+
+<p>
+RealRP.lt — projektas kuriamas žmonėms,
+kurie ieško tikroviško miesto gyvenimo,
+kokybiško Roleplay ir aktyvios bendruomenės.
+</p>
+
+
+</section>
+
+
+
+<section>
+
+<h2 class="title">
+🚔 Veiklos
+</h2>
+
+
+<div class="cards">
+
 
 <div class="card">
-🚔 Policija
-<br>
-Tvarkos palaikymas ir miesto saugumas.
+<h3>🚔 Policija</h3>
+<p>
+Miesto apsauga, patruliai ir teisėsauga.
+</p>
 </div>
+
 
 <div class="card">
-🚑 Medikai
-<br>
-Pagalba ir gelbėjimo operacijos.
+<h3>🚑 Medikai</h3>
+<p>
+Gelbėjimo operacijos ir pagalba žmonėms.
+</p>
 </div>
+
 
 <div class="card">
-🔧 Mechanikai
-<br>
-Transporto remontas ir priežiūra.
+<h3>🔧 Mechanikai</h3>
+<p>
+Transporto remontas ir tuningas.
+</p>
 </div>
+
 
 <div class="card">
-🚕 Bolt
-<br>
-Keleivių vežimas ir uždarbis.
-</div>
-
-</div>
-
-
-<div class="section">
-
-<h2>⚙️ Projekto būsena</h2>
-
-<div class="card">
-🟡 Projektas šiuo metu kuriamas
-</div>
-
+<h3>🚕 Bolt</h3>
+<p>
+Uždarbis ir keleivių vežimas.
+</p>
 </div>
 
 
 </div>
+
+</section>
+
+
+
+<section class="status">
+
+<h2 class="title">
+⚙️ Serverio būsena
+</h2>
+
+<h3 class="green">
+🟢 Projektas kuriamas
+</h3>
+
+<p>
+Startas netrukus.
+</p>
+
+
+</section>
+
 
 
 <footer>
-© 2026 RealRP.lt | Tavo istorija prasideda čia.
+
+© 2026 RealRP.lt  
+<br>
+Tavo istorija prasideda čia.
+
 </footer>
+
 
 </body>
 </html>
