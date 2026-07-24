@@ -2,6 +2,8 @@
 
 <img src="logo.png" width="250">
 
+</div>
+
 # RealRP.lt
 
 🇱🇹 Lietuvos FiveM Roleplay serveris
