@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="logo.png" width="250">
+
 # RealRP.lt
 
 🇱🇹 Lietuvos FiveM Roleplay serveris
@@ -10,34 +12,78 @@
 
 ---
 
-## 🌆 Apie projektą
+# 🌆 Apie RealRP.lt
 
-**RealRP.lt** — naujos kartos Lietuvos FiveM Roleplay projektas, kuriame kuriame realistišką miesto gyvenimą, aktyvią bendruomenę ir unikalią žaidėjų patirtį.
+**RealRP.lt** — naujos kartos Lietuvos FiveM Roleplay projektas, kuriame kuriame realistišką miesto gyvenimą, aktyvią bendruomenę ir nepamirštamą žaidimo patirtį.
 
-## 🚔 Darbai ir veiklos
+Mūsų tikslas — sukurti kokybišką Roleplay aplinką, kurioje kiekvienas žaidėjas galėtų kurti savo istoriją.
 
-🚔 Policija  
-🚑 Medikai  
-🔧 Mechanikai  
-🚕 Bolt  
-💼 Verslai  
-🏠 Gyvenimas mieste  
+---
 
-## ⭐ Projekto tikslai
+# 🚔 Darbai ir veiklos
 
-- Realistiškas Roleplay
-- Aktyvi ir draugiška bendruomenė
-- Unikalios sistemos
-- Nuolatinis projekto tobulinimas
+🚔 **Policija**  
+Tvarkos palaikymas mieste, iškvietimai ir kriminalinių situacijų sprendimas.
 
-## ⚙️ Projekto būsena
+🚑 **Medikai**  
+Pagalba žaidėjams, gelbėjimo operacijos ir miesto sveikatos sistema.
+
+🔧 **Mechanikai**  
+Transporto remontas, tuningas ir pagalba vairuotojams.
+
+🚕 **Bolt**  
+Keleivių vežimas ir uždarbio galimybės.
+
+💼 **Verslai**  
+Galimybė kurti savo veiklą ir tapti miesto dalimi.
+
+---
+
+# ⭐ Projekto tikslai
+
+✅ Realistiškas Roleplay  
+✅ Aktyvi bendruomenė  
+✅ Unikalios sistemos  
+✅ Kokybiški skriptai  
+✅ Nuolatinis tobulinimas  
+
+---
+
+# ⚙️ Projekto būsena
 
 🟡 **Statusas:** Kuriamas
 
-Daugiau informacijos ir naujienų rasite mūsų Discord serveryje.
+Šiuo metu vyksta serverio kūrimas, sistemų planavimas ir testavimas.
 
 ---
+
+# 📌 Planuojamos sistemos
+
+⬜ ESX pagrindas  
+⬜ Charakterio kūrimas  
+⬜ Inventorius  
+⬜ Telefonas  
+⬜ Ekonomika  
+⬜ Policijos sistema  
+⬜ Mediku sistema  
+⬜ Mechanikų sistema  
+⬜ Transporto sistema  
+⬜ Administracijos įrankiai  
+
+---
+
+# 🌐 Kontaktai
+
+💬 Discord: TAVO_DISCORD_LINKAS
+
+🌍 Website: realrp.lt
+
+---
+
+<div align="center">
 
 # RealRP.lt
 
 **Tavo istorija prasideda čia.**
+
+</div>
