@@ -2,11 +2,12 @@
 
 # RealRP.lt
 
-🇱🇹 Lietuvos FiveM Roleplay serveris
-
-[💬 Discord](TAVO_DISCORD_LINKAS)
+🇱🇹 Lietuvos FiveM Roleplay 
 
 </div>
+serveris
+
+
 
 ---
 
