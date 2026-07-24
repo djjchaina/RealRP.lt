@@ -2,29 +2,42 @@
 
 # RealRP.lt
 
-🇱🇹 Lietuvos FiveM Roleplay 
+🇱🇹 Lietuvos FiveM Roleplay serveris
+
+[💬 Discord](https://discord.gg/T8FMstE5D)
 
 </div>
-serveris
-
-
 
 ---
 
 ## 🌆 Apie projektą
 
-RealRP.lt — naujos kartos Lietuvos FiveM Roleplay projektas, kuriame kuriame realistišką miesto gyvenimą.
+**RealRP.lt** — naujos kartos Lietuvos FiveM Roleplay projektas, kuriame kuriame realistišką miesto gyvenimą, aktyvią bendruomenę ir unikalią žaidėjų patirtį.
 
-## 🚔 Darbai
+## 🚔 Darbai ir veiklos
 
 🚔 Policija  
 🚑 Medikai  
 🔧 Mechanikai  
 🚕 Bolt  
 💼 Verslai  
+🏠 Gyvenimas mieste  
 
-## ⚙️ Statusas
+## ⭐ Projekto tikslai
 
-🟡 Projektas šiuo metu kuriamas.
+- Realistiškas Roleplay
+- Aktyvi ir draugiška bendruomenė
+- Unikalios sistemos
+- Nuolatinis projekto tobulinimas
 
-**RealRP.lt — tavo istorija prasideda čia.**
+## ⚙️ Projekto būsena
+
+🟡 **Statusas:** Kuriamas
+
+Daugiau informacijos ir naujienų rasite mūsų Discord serveryje.
+
+---
+
+# RealRP.lt
+
+**Tavo istorija prasideda čia.**
